@@ -15,3 +15,8 @@
 gaeco (Graphs for Architecture, Engineering, Construction, Operations) is an event-driven microservice platform for BIM data management. It translates external building-industry standards (IFC, IBPDI, Brick Schema, ASHRAE 223 and others) into a shared, versioned classification and relationship model (Guideline + Ontology) and exposes consistent, graph-based building data (Instance) across use cases and departments — without forcing every consumer onto one rigid schema. Built for organizations managing building/portfolio data across disconnected departmental systems (construction, facilities management, leasing, accounting) that need automatic, reliable data propagation instead of manual, error-prone hand-offs.
 
 > This project is licensed under the [Source Available](../LICENSE.md). Source code is viewable and usable; commercial use is restricted.
+
+## Getting Started
+
+Want to try gaeco yourself? The [gaeco](https://github.com/gaeco-ekkodale/gaeco) start repository lets you spin up a running gaeco instance in a few steps.
+
