@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gaeco-ekkodale/.github/main/assets/gaeco_logo_horizontal_color.svg" width="200" alt="gaeco logo">
+  <img src="https://raw.githubusercontent.com/gaeco-ekkodale/.github/main/assets/gaeco_logo_horizontal_color.png" width="200" alt="gaeco logo">
 
   # <repo-name>
 
   <em><One-sentence tagline: what this repo does></em>
 
-  [![License](https://img.shields.io/badge/license-fair--code-orange.svg)](LICENSE.md)
-  [![Build](https://img.shields.io/github/actions/workflow/status/gaeco-ekkodale/<repo>/ci.yml)](../../actions)
+  [![License](https://img.shields.io/badge/license-fair--code-blue.svg)](LICENSE.md)
   [![Version](https://img.shields.io/github/v/release/gaeco-ekkodale/<repo>)](../../releases)
 
   [gaeco-ekkodale Organization](https://github.com/gaeco-ekkodale) · [All Repos](https://github.com/orgs/gaeco-ekkodale/repositories)
@@ -14,6 +13,6 @@
 
 ---
 
-<Short description: 1 paragraph, no heading, what the project does and for whom>
+gaeco (Graphs for Architecture, Engineering, Construction, Operations) is an event-driven microservice platform for BIM data management. It translates external building-industry standards (IFC, IBPDI, Brick Schema, ASHRAE 223 and others) into a shared, versioned classification and relationship model (Guideline + Ontology) and exposes consistent, graph-based building data (Instance) across use cases and departments — without forcing every consumer onto one rigid schema. Built for organizations managing building/portfolio data across disconnected departmental systems (construction, facilities management, leasing, accounting) that need automatic, reliable data propagation instead of manual, error-prone hand-offs.
 
-> This project is licensed under the [Sustainable Use License](LICENSE.md) (fair-code). Source code is viewable and usable; commercial use is restricted.
+> This project is licensed under the [Faircode](LICENSE.md) (fair-code). Source code is viewable and usable; commercial use is restricted.
