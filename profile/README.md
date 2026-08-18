@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gaeco-ekkodale/.github/main/assets/gaeco_logo_horizontal_color.png" width="200" alt="gaeco logo">
 
-  # .github
-
   <em>Organisation profile and shared assets for the gaeco-ekkodale organisation.</em>
 
   [![License](https://img.shields.io/badge/license-fair--code-blue.svg)](LICENSE.md)
