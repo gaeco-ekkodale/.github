@@ -3,7 +3,8 @@
 
 
 
-  [![License](https://img.shields.io/badge/license-fair--code-blue.svg)](LICENSE.md)
+
+  [![License](https://img.shields.io/badge/license-Source%20Available-blue.svg)](LICENSE.md)
   [![Version](https://img.shields.io/github/v/release/gaeco-ekkodale/gaeco)](../../releases)
 
   [gaeco-ekkodale Organization](https://github.com/gaeco-ekkodale) · [All Repos](https://github.com/orgs/gaeco-ekkodale/repositories)
