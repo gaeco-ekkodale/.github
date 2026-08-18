@@ -2,10 +2,9 @@
   <img src="https://raw.githubusercontent.com/gaeco-ekkodale/.github/main/assets/gaeco_logo_horizontal_color.png" width="200" alt="gaeco logo">
 
 
-  <em>Organisation profile and shared assets for the gaeco-ekkodale organisation.</em>
 
   [![License](https://img.shields.io/badge/license-fair--code-blue.svg)](LICENSE.md)
-  [![Version](https://img.shields.io/github/v/release/gaeco-ekkodale/.github)](../../releases)
+  [![Version](https://img.shields.io/github/v/release/gaeco-ekkodale/gaeco)](../../releases)
 
   [gaeco-ekkodale Organization](https://github.com/gaeco-ekkodale) · [All Repos](https://github.com/orgs/gaeco-ekkodale/repositories)
 </div>
